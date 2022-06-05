@@ -1,4 +1,4 @@
-## Hi there <img src = "https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-caramell-dance-gif.gif" width="30px" height="42px" > i'm Alfin Yusriansyah 😎👨‍💻
+## Hi there <img src = "https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-caramell-dance-gif.gif" width="30px" height="30px"> i'm Alfin Yusriansyah 😎👨‍💻
 
 <p> 
 I am a student from the Muhammadiyah University of Malang, majoring in informatics engineering.
