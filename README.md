@@ -1,9 +1,17 @@
 ## Hi there <img src = "https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-caramell-dance-gif.gif" width="30px" height="30px"> i'm Alfin Yusriansyah 😎👨‍💻
 
 <p> 
-I am a student from the Muhammadiyah University of Malang, majoring in informatics engineering.
-<br> Now, I'm focused and interested in becoming a Software Engineer and Data Science, 
-committed to building a product and information that can be useful and useful.</br>
+  I am deeply passionate about technology, problem-solving, and innovation, with a strong focus on becoming a professional Software Engineer and Data Scientist.  
+  Over the years, I have developed a keen interest in how software and data can be combined to create solutions that are not only efficient but also impactful for businesses and society.  
+
+  My vision is to contribute to building intelligent systems and applications that improve decision-making, enhance productivity, and provide meaningful insights.  
+  I am committed to continuous learning and always eager to explore new programming languages, frameworks, and tools that can sharpen my technical expertise.  
+
+  As a future Software Engineer, I aim to write clean, scalable, and maintainable code that drives reliable software solutions.  
+  As a Data Scientist, I aspire to transform raw data into valuable knowledge through data analysis, machine learning, and artificial intelligence.  
+  With this dual focus, I want to bridge the gap between software engineering and data-driven innovation.  
+
+  Ultimately, my goal is to build products and information systems that not only solve real-world problems but also create long-term value and positive impact for people, organizations, and communities.
 </p>
 
 - 🌱 I’m currently learning everything 🤣
